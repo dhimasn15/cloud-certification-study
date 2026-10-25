@@ -1,0 +1,9 @@
+node_modules/
+.next/
+data/imports/
+*.local
+.opencode-brave/
+
+# Local exam exports and source material are not part of the web app.
+CDL-scrap-exam/
+diagnostc-test.csv
